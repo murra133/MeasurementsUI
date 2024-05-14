@@ -1,9 +1,9 @@
-# ModelConnect
+# MeasureModelConnect
 ### Project Description
 The purpose of this project is to create an interface between the actively changing 3D model world and the slow construction world. The reason this is done is because every day project engineers spend countless hours in document control of hand written notes by field personnel. This process essentially waste time and makes documentation unreliable as it is prone to several avenues were human error can interfere with the accuracy of the data. We live in the 21st century and we have the tools readily available to automate most of the process. I will document the experiences as I videotape while this project is built. Code is private so will only be sharing demos.
 
 
-### Video 1: Calculation of Shapes available to scrap material
+### Video 1: Calculation of Shapes Available to Scrap Material
 
 https://github.com/murra133/MeasurementsUI/assets/46013488/a2e58116-4bdf-49b0-9aa9-2a6774a99292
 

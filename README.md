@@ -6,4 +6,6 @@ The purpose of this project is to create an interface between the actively chang
 ### Video 1: Calculation of Shapes available to scrap material
 In the video, the user is selecting the different dimensions to be measured for the scrap wood (H|W|D). As the user measures, the phone receives the measurement and instantly distributes the measurement to the 3D model. The 3D model then uses Rhino Grasshopper (Visual Scripting) to plot and calculate the available shapes that can be cut from the scrap pieces. This is done in sync with the user taking measurements.
 
-[<img src="./Videos/Sequence 01_1 (1).mp4" width="100%">]
+
+https://github.com/murra133/MeasurementsUI/assets/46013488/a2e58116-4bdf-49b0-9aa9-2a6774a99292
+

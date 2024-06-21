@@ -12,6 +12,10 @@ In the video, the user is selecting the different dimensions to be measured for 
 
 ### Video 2: UI Walkthrough
 
+
+https://github.com/murra133/MeasurementsUI/assets/46013488/a61e850c-2a21-40ca-aa23-63d1555fbdad
+
+
 In the video one is able to see the current user interface. The user interface consists of a 3D model with a measurement list. Selecting a measurement will highlight the measurement in the 3D model and the list. Taking the measurement will update the value in both areas. One is able to seamlessly cycle between models and take measurements as needed.
 
 

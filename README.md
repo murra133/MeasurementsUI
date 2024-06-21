@@ -10,5 +10,10 @@ https://github.com/murra133/MeasurementsUI/assets/46013488/a2e58116-4bdf-49b0-9a
 In the video, the user is selecting the different dimensions to be measured for the scrap wood (H|W|D). As the user measures, the phone receives the measurement and instantly distributes the measurement to the 3D model. The 3D model then uses Rhino Grasshopper (Visual Scripting) to plot and calculate the available shapes that can be cut from the scrap pieces. This is done in sync with the user taking measurements.
 
 
+### Video 2: UI Walkthrough
+
+In the video one is able to see the current user interface. The user interface consists of a 3D model with a measurement list. Selecting a measurement will highlight the measurement in the 3D model and the list. Taking the measurement will update the value in both areas. One is able to seamlessly cycle between models and take measurements as needed.
+
+
 
 
